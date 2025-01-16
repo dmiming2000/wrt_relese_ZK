@@ -132,7 +132,8 @@ install_small8() {
         adguardhome luci-app-adguardhome ddns-go luci-app-ddns-go taskd luci-lib-xterm luci-lib-taskd \
         luci-app-store quickstart luci-app-quickstart luci-app-istorex luci-app-cloudflarespeedtest \
         luci-theme-argon netdata luci-app-netdata lucky luci-app-lucky luci-app-openclash mihomo \
-        luci-app-mihomo luci-app-homeproxy luci-app-amlogic luci-app-ssr-plus
+        luci-app-mihomo luci-app-homeproxy luci-app-amlogic shadowsocks-libev-ss-local \
+        shadowsocks-libev-ss-redir shadowsocks-libev-ss-server luci-app-ssr-plus
 }
 
 install_feeds() {
